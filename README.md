@@ -498,11 +498,9 @@ I'm especially interested in teams where I can work on real products, collaborat
 
 <p align="center">
 
-📧 **[shaikyasirahmed07@gmail.com](mailto:shaikyasirahmed07@gmail.com)**
-
-🔗 **linkedin.com/in/shaikyasirahmed07**
-
-💻 **github.com/shaikyasirahmed07**
+📧 **[Email](mailto:shaikyasirahmed07@gmail.com)**  
+🔗 **[LinkedIn](https://linkedin.com/in/shaikyasirahmed07)**  
+💻 **[GitHub](https://github.com/shaikyasirahmed07)**
 
 </p>
 
