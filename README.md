@@ -415,14 +415,19 @@ I have a strong interest in **software quality and reliable application behavior
 
 # 📊 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub contribution graph"
-  />
-</p>
+<div align="center">
 
+<a href="https://github.com/shaikyasirahmed07">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Shaik%20Yasir%20Ahmed%20-%20Contribution%20Activity"
+  alt="Shaik Yasir Ahmed GitHub Contribution Activity"
+  width="100%"
+/>
+
+</a>
+
+</div>
 ---
 
 # 🌱 Currently Learning
