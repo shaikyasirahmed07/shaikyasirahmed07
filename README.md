@@ -390,18 +390,7 @@ I have a strong interest in **software quality and reliable application behavior
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyasirahmed07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top languages"
-  />
-</p>
+
 
 <p align="center">
   <img
@@ -413,44 +402,7 @@ I have a strong interest in **software quality and reliable application behavior
 
 ---
 
-# 📊 Contribution Activity
 
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyasirahmed07&theme=github-dark-blue&hide_border=true"
-alt="GitHub Contribution Streak"
-width="100%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-alt="GitHub Statistics"
-width="100%"
-/>
-
-</div>
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/shaikyasirahmed07">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
-alt="Shaik Yasir Ahmed GitHub Contribution Activity"
-width="100%"
-/>
-
-</a>
-
-</div>
-
----
 
 # 💼 Open to Opportunities
 
@@ -483,76 +435,37 @@ I'm especially interested in teams where I can work on real products, collaborat
     alt="Let's Build Something Great"
   />
 </p>
-
-<p align="center">
+<p>
   <br>
-
   <a href="mailto:shaikyasirahmed07@gmail.com">
     <img
       src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://linkedin.com/in/shaikyasirahmed07">
     <img
       src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://github.com/shaikyasirahmed07">
     <img
       src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://www.codechef.com/users/yasirahmed07">
     <img
       src="https://img.shields.io/badge/CODECHEF-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
       alt="CodeChef"
     />
   </a>
-
 </p>
-
 <br>
-
-<p align="center">
-
-  <a href="mailto:shaikyasirahmed07@gmail.com">
-    📧 <b>shaikyasirahmed07@gmail.com</b>
-  </a>
-
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/shaikyasirahmed07">
-    🔗 <b>LinkedIn</b>
-  </a>
-
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
-  <a href="https://github.com/shaikyasirahmed07">
-    💻 <b>GitHub</b>
-  </a>
-
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/yasirahmed07">
-    👨‍💻 <b>CodeChef</b>
-  </a>
-
-</p>
-
-<br>
-
 <p align="center">
   <sub>
     🚀 Open to collaboration · 💡 Always learning · 🛠️ Building practical technology
