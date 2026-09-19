@@ -1,570 +1,640 @@
 <!-- =========================================================
-     YASIR AHMED — GITHUB PROFILE
-     DIGITAL WORKSPACE / ENGINEERING PROFILE
+     YASIR AHMED — NEXUS
+     Personal Engineering Interface
      ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:312e81&text=YASIR%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20WEB%20%2F%20AI%20%2F%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<!-- NEXUS CORE / HERO -->
+
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+
+```
+<linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#38bdf8"/>
+  <stop offset="50%" stop-color="#818cf8"/>
+  <stop offset="100%" stop-color="#c084fc"/>
+</linearGradient>
+
+<filter id="glow">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<filter id="softGlow">
+  <feGaussianBlur stdDeviation="12"/>
+</filter>
+```
+
+  </defs>
+
+  <!-- Space -->
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+
+  <!-- Background grid -->
+
+  <g opacity="0.13" stroke="#60a5fa">
+    <path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200M0 250H1200"/>
+    <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+  </g>
+
+  <!-- Ambient glow -->
+
+  <circle cx="600" cy="150" r="100" fill="#6366f1" opacity="0.12" filter="url(#softGlow)"/>
+
+  <!-- Orbital rings -->
+
+<ellipse cx="600" cy="150" rx="185" ry="62"
+        fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.45"/> <ellipse cx="600" cy="150" rx="155" ry="95"
+        fill="none" stroke="#818cf8" stroke-width="1" opacity="0.35"
+        transform="rotate(-25 600 150)"/> <ellipse cx="600" cy="150" rx="120" ry="120"
+        fill="none" stroke="#c084fc" stroke-width="1" opacity="0.22"
+        transform="rotate(45 600 150)"/>
+
+  <!-- Orbit particles -->
+
+  <circle cx="775" cy="132" r="4" fill="#38bdf8" filter="url(#glow)"/>
+  <circle cx="470" cy="79" r="3" fill="#818cf8" filter="url(#glow)"/>
+  <circle cx="682" cy="257" r="4" fill="#c084fc" filter="url(#glow)"/>
+  <circle cx="510" cy="220" r="3" fill="#60a5fa" filter="url(#glow)"/>
+
+  <!-- Core -->
+
+  <circle cx="600" cy="150" r="45" fill="#020617" stroke="url(#core)" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="600" cy="150" r="30" fill="none" stroke="#38bdf8" opacity="0.6"/>
+  <circle cx="600" cy="150" r="12" fill="url(#core)" filter="url(#glow)"/>
+
+  <!-- Left HUD -->
+
+  <g font-family="monospace" fill="#94a3b8">
+    <text x="45" y="65" font-size="12">NEXUS.SYSTEM</text>
+    <text x="45" y="88" font-size="10">ENGINEERING_INTERFACE</text>
+    <text x="45" y="112" font-size="10" fill="#38bdf8">● ONLINE</text>
+    <text x="45" y="136" font-size="10">MODE: BUILD</text>
+    <text x="45" y="160" font-size="10">CORE: SOFTWARE</text>
+    <text x="45" y="184" font-size="10">STATUS: LEARNING</text>
+  </g>
+
+  <!-- Right HUD -->
+
+  <g font-family="monospace" fill="#94a3b8">
+    <text x="955" y="65" font-size="12">SYSTEM.LOG</text>
+    <text x="955" y="90" font-size="10">WEB</text>
+    <text x="955" y="110" font-size="10">AI / ML</text>
+    <text x="955" y="130" font-size="10">WEB3</text>
+    <text x="955" y="150" font-size="10">QUALITY</text>
+    <text x="955" y="170" font-size="10">CLOUD</text>
+  </g>
+
+  <!-- Identity -->
+
+<text x="600" y="110"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="34"
+     font-family="Arial, sans-serif"
+     font-weight="700"
+     letter-spacing="6">
+YASIR AHMED </text>
+
+<text x="600" y="205"
+     text-anchor="middle"
+     fill="#94a3b8"
+     font-size="12"
+     font-family="monospace"
+     letter-spacing="3">
+SOFTWARE ENGINEERING • AI • WEB3 • QUALITY </text>
+
+</svg>
 
 <br>
 
-### `// DIGITAL WORKSPACE`
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   YASIR AHMED                                                               │
-│   ──────────────────────────────────────────────────────────────────────     │
-│                                                                              │
-│   SOFTWARE ENGINEERING  ×  WEB SYSTEMS  ×  AI  ×  BLOCKCHAIN                │
-│                                                                              │
-│   Building practical systems.                                               │
-│   Breaking complex problems into smaller ones.                              │
-│   Learning something new with every build.                                  │
-│                                                                              │
-│   STATUS      :  BUILDING                                                   │
-│   MODE        :  ENGINEERING                                                │
-│   CURRENT FOCUS :  SOFTWARE + QUALITY + INTELLIGENT SYSTEMS                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://github.com/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/LINKEDIN-172554?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shaikyasirahmed07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-312e81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=INITIALIZING+YASIR.NEXUS...;SYSTEM+ONLINE.;FULL-STACK+ENGINEERING+ACTIVE.;AI%2FML+EXPLORATION+ACTIVE.;BLOCKCHAIN+SYSTEMS+ACTIVE.;QUALITY+ENGINEERING+ACTIVE.;BUILDING+THE+NEXT+VERSION..." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Blockchain+Builder;AI%2FML+Explorer;Quality+Engineering+Enthusiast;Always+Building%2C+Testing%2C+Learning." />
+<a href="https://github.com/shaikyasirahmed07">
+<img src="https://img.shields.io/badge/NEXUS-GITHUB-020617?style=for-the-badge&logo=github&logoColor=67e8f9"/>
+</a>
+<a href="https://linkedin.com/in/shaikyasirahmed07">
+<img src="https://img.shields.io/badge/NETWORK-LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
+</a>
+<a href="mailto:shaikyasirahmed07@gmail.com">
+<img src="https://img.shields.io/badge/CHANNEL-EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=c084fc"/>
+</a>
 
 </div>
 
 ---
 
-# `01` — SYSTEM PROFILE
-
-```yaml
-identity:
-  name: "Shaik Yasir Ahmed"
-  role: "Computer Science Engineering Student"
-  degree: "B.Tech in Computer Science & Engineering"
-  university: "KL University"
-  timeline: "2022 — 2026"
-
-engineering:
-  primary:
-    - Java
-    - Python
-    - JavaScript
-    - React
-    - Node.js
-  systems:
-    - Express.js
-    - Django
-    - Flask
-    - MongoDB
-    - PostgreSQL
-  emerging:
-    - AI / Machine Learning
-    - Blockchain
-    - Smart Contracts
-    - Embedded Systems
-
-mindset:
-  - Build with purpose
-  - Learn by creating
-  - Test before trusting
-  - Keep systems maintainable
-  - Turn ideas into working software
-```
-
----
-
-# `02` — ENGINEERING IDENTITY
-
-> I like building software that sits at the intersection of **usefulness, engineering, and experimentation**.
-
-My work spans full-stack applications, blockchain systems, automation, AI/ML exploration, and quality engineering.
-
-I enjoy taking an idea from:
+# `NEXUS // BOOT SEQUENCE`
 
 ```text
-IDEA
-  ↓
-ARCHITECTURE
-  ↓
-IMPLEMENTATION
-  ↓
-TESTING
-  ↓
-DEBUGGING
-  ↓
-DEPLOYMENT
-  ↓
-ITERATION
+[ 00:00:01 ] Loading developer profile...
+[ 00:00:02 ] Loading engineering modules...
+[ 00:00:03 ] Initializing curiosity engine...
+[ 00:00:04 ] Connecting to GitHub...
+[ 00:00:05 ] Loading projects...
+[ 00:00:06 ] Quality layer: ENABLED
+[ 00:00:07 ] Learning engine: RUNNING
+
+> SYSTEM READY
 ```
-
-The goal isn't simply to make something work.
-
-The goal is to understand **why it works, where it can fail, and how it can become better.**
 
 ---
 
-# `03` — CURRENT OPERATING SYSTEM
+# `01 // IDENTITY CORE`
 
 <div align="center">
 
-| AREA                      | CURRENT STATE          |
-| :------------------------ | :--------------------- |
-| 🎓 Computer Science       | `B.Tech • 2022–2026`   |
-| 💻 Software Development   | `ACTIVE`               |
-| 🌐 Full Stack Development | `ACTIVE`               |
-| 🧪 Quality Engineering    | `ACTIVE`               |
-| 🤖 AI / ML                | `EXPLORING`            |
-| ⛓️ Blockchain             | `BUILDING`             |
-| ☁️ Cloud                  | `LEARNING + CERTIFIED` |
-| 🧠 Problem Solving        | `CONTINUOUS`           |
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                         IDENTITY CORE                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME       ::  SHAIK YASIR AHMED                           ║
+║  DOMAIN     ::  COMPUTER SCIENCE                             ║
+║  DEGREE     ::  B.TECH — CSE                                ║
+║  PERIOD     ::  2022 → 2026                                 ║
+║                                                              ║
+║  PRIMARY    ::  SOFTWARE ENGINEERING                         ║
+║  SECONDARY  ::  AI / ML • WEB3 • QUALITY                    ║
+║                                                              ║
+║  CURRENT    ::  BUILDING • TESTING • LEARNING               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
+I build software by moving through the complete engineering loop:
+
+```text
+        ┌──────────┐
+        │  IDEA    │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  DESIGN  │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │   BUILD  │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │   TEST   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  DEBUG   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  SHIP    │
+        └────┬─────┘
+             │
+             └──────────────→ IMPROVE
+```
+
 ---
 
-# `04` — TECHNOLOGY MATRIX
-
-### Languages
+# `02 // HOLOGRAPHIC SKILL MATRIX`
 
 <div align="center">
+
+### `LANGUAGE LAYER`
 
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,dart" />
 
-</div>
+### `APPLICATION LAYER`
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,django,flask" />
 
-<div align="center">
+### `DATA LAYER`
 
-<img src="https://skillicons.dev/icons?i=react,redux,flutter" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-</div>
+### `ENGINEERING LAYER`
 
-### Backend & Data
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
 
-<div align="center">
+### `INTELLIGENCE LAYER`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,postgresql,mysql" />
-
-</div>
-
-### AI / Engineering
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 </div>
 
-### Blockchain & Web3
+---
+
+# `03 // NEURAL MAP`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                 WEB3 TOOLCHAIN                      │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Solidity       → Smart Contracts                  │
-│  Hardhat        → Development / Testing            │
-│  Ethers.js      → Blockchain Interaction           │
-│  MetaMask       → Wallet / User Connection         │
-│  React          → Application Interface             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+                         ┌───────────────┐
+                         │   YASIR.NEXUS │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+       ┌────────────┐     ┌────────────┐     ┌────────────┐
+       │   BUILD    │     │  INTELLIGENCE│    │   QUALITY  │
+       └─────┬──────┘     └──────┬─────┘     └─────┬──────┘
+             │                   │                  │
+       ┌─────┼─────┐       ┌─────┼─────┐      ┌─────┼─────┐
+       ▼     ▼     ▼       ▼     ▼     ▼      ▼     ▼     ▼
+     WEB   API   DATA     AI    ML   WEB3    TEST  DATA  QA
+       │     │     │       │     │     │      │     │     │
+       └─────┴─────┴───────┴─────┴─────┴──────┴─────┴─────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │ REAL SYSTEMS  │
+                         └───────────────┘
 ```
 
 ---
 
-# `05` — SELECTED BUILDS
+# `04 // PROJECT ORBIT`
 
-## ◈ DAKSHKRISHI
+Instead of a conventional project list, think of my projects as different systems orbiting the same engineering core.
 
-**Full-Stack Crop Recommendation System**
+<div align="center">
 
 ```text
-React
-  │
-  ▼
-Spring Boot
-  │
-  ▼
-PostgreSQL
+                         ╭──────────────╮
+                         │  DAKSHKRISHI │
+                         ╰──────┬───────╯
+                                │
+                ╭───────────────┼───────────────╮
+                │                               │
+                ▼                               ▼
+       ╭────────────────╮              ╭──────────────────╮
+       │ WATER BILL DAPP│              │  ONLINE VOTING   │
+       ╰───────┬────────╯              ╰────────┬─────────╯
+               │                                 │
+               │         ╭──────────────╮        │
+               └────────►│ YASIR CORE   │◄───────┘
+                         ╰──────┬───────╯
+                                │
+                         ╭──────▼───────╮
+                         │ MAIL SENDER  │
+                         ╰──────────────╯
 ```
 
-A full-stack agricultural application designed around crop recommendation and data-driven decision support.
-
-**Engineering focus**
-
-* React-based frontend
-* Spring Boot backend
-* PostgreSQL data layer
-* Full-stack application architecture
-* Practical problem-solving in agriculture technology
+</div>
 
 ---
 
-## ◈ WATER BILL MANAGEMENT DAPP
+## `◈ 01 — DAKSHKRISHI`
 
-**Blockchain + Full-Stack Application**
+### Agricultural Recommendation Platform
+
+**Stack**
+
+`React` `Spring Boot` `PostgreSQL`
 
 ```text
 USER
   │
   ▼
-REACT INTERFACE
+REACT
   │
   ▼
-ETHERS.JS
+SPRING BOOT
   │
   ▼
-SMART CONTRACT
-  │
-  ▼
-BLOCKCHAIN
+POSTGRESQL
 ```
 
-A decentralized water-billing system exploring how blockchain can be used for transparent billing workflows.
-
-**Technology**
-
-`Solidity` `React` `Ethers.js` `Hardhat` `Browser Wallet`
+A full-stack crop recommendation system focused on combining an accessible frontend with a structured backend and persistent data layer.
 
 **Engineering focus**
 
-* Smart-contract interaction
-* Blockchain-based billing
-* Web3 frontend integration
-* Wallet-based transactions
+* Full-stack architecture
+* REST-style application communication
+* PostgreSQL data management
+* Agricultural technology
+* Practical recommendation workflows
+
+---
+
+## `◈ 02 — WATER BILL MANAGEMENT DAPP`
+
+### Blockchain-powered billing system
+
+**Stack**
+
+`Solidity` `React` `Ethers.js` `Hardhat`
+
+```text
+                 ┌─────────────┐
+                 │    USER     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    REACT    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │  ETHERS.JS  │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │  CONTRACT   │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │ BLOCKCHAIN  │
+                 └─────────────┘
+```
+
+Explores how blockchain technology can support transparent water-billing workflows.
+
+**Engineering focus**
+
+* Solidity smart contracts
+* Ethers.js integration
+* Wallet interaction
+* Blockchain state
 * Decentralized application architecture
 
 ---
 
-## ◈ ONLINE VOTING SYSTEM
+## `◈ 03 — ONLINE VOTING SYSTEM`
 
-**Blockchain-based voting application**
+### Web3 voting experiment
 
-```text
-VOTER
-  ↓
-REACT APPLICATION
-  ↓
-ETHERS.JS
-  ↓
-METAMASK
-  ↓
-SMART CONTRACT
-  ↓
-EVM NETWORK
-```
-
-A Web3 project exploring transparent voting workflows using smart contracts and wallet-based interaction.
-
-**Technology**
+**Stack**
 
 `Solidity` `Hardhat` `React` `Ethers.js` `MetaMask`
 
----
-
-## ◈ AUTOMATIC MAIL SENDER
-
-**React + Serverless Email Application**
-
 ```text
-USER
-  ↓
-REACT EMAIL FORM
-  ↓
-NETLIFY FUNCTION
-  ↓
-EMAILJS
-  ↓
-RECIPIENT
+VOTER
+  │
+  ▼
+REACT UI
+  │
+  ▼
+ETHERS.JS
+  │
+  ▼
+METAMASK
+  │
+  ▼
+SMART CONTRACT
+  │
+  ▼
+EVM NETWORK
 ```
 
-A lightweight web application for sending emails through a React interface and serverless backend function.
+A blockchain-oriented voting application exploring wallet-connected interaction with smart contracts.
 
-**Technology**
+---
+
+## `◈ 04 — AUTOMATIC MAIL SENDER`
+
+### Serverless email delivery interface
+
+**Stack**
 
 `React` `Netlify Functions` `Axios` `EmailJS` `Vanta.js` `Three.js`
 
----
-
-# `06` — ENGINEERING LAB
-
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         ENGINEERING LAB                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  WEB DEVELOPMENT                                                    ║
-║  ├── Component-based interfaces                                     ║
-║  ├── REST-style backend integration                                 ║
-║  └── Full-stack application workflows                               ║
-║                                                                      ║
-║  BLOCKCHAIN                                                         ║
-║  ├── Smart contract development                                     ║
-║  ├── Wallet integration                                             ║
-║  └── On-chain application workflows                                 ║
-║                                                                      ║
-║  QUALITY ENGINEERING                                                ║
-║  ├── Data validation                                                ║
-║  ├── Workflow verification                                          ║
-║  ├── Defect identification                                          ║
-║  └── Unexpected-behavior analysis                                   ║
-║                                                                      ║
-║  AI / ML                                                            ║
-║  ├── Machine learning exploration                                   ║
-║  ├── TensorFlow / PyTorch                                           ║
-║  └── AI-assisted application ideas                                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+┌──────────┐
+│   USER   │
+└────┬─────┘
+     │
+     ▼
+┌───────────────┐
+│ REACT FORM    │
+└──────┬────────┘
+       │ JSON
+       ▼
+┌───────────────┐
+│ NETLIFY FUNC. │
+└──────┬────────┘
+       │
+       ▼
+┌───────────────┐
+│    EMAILJS    │
+└──────┬────────┘
+       │
+       ▼
+   RECIPIENT
 ```
+
+A lightweight application demonstrating frontend interaction, serverless functions, third-party API integration, and animated visual presentation.
 
 ---
 
-# `07` — QUALITY ENGINEERING
-
-I am interested not only in **building software**, but also in understanding how software fails.
-
-My QA-oriented work focuses on:
+# `05 // QUALITY DEFENSE SYSTEM`
 
 ```text
-INPUT
-  ↓
-VALIDATION
-  ↓
-EXPECTED BEHAVIOR
-  ↓
-ACTUAL BEHAVIOR
-  ↓
-DIFF
-  ↓
-DEFECT
-  ↓
-ROOT CAUSE
-  ↓
-DOCUMENTATION
+                    ┌─────────────────┐
+                    │    SOFTWARE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    VALIDATE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ EXPECTED STATE  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   ACTUAL STATE  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    COMPARE      │
+                    └────────┬────────┘
+                             ↓
+                     ┌───────┴───────┐
+                     │               │
+                   MATCH           MISMATCH
+                     │               │
+                     ▼               ▼
+                  ACCEPT         INVESTIGATE
+                                     │
+                                     ▼
+                               ROOT CAUSE
+                                     │
+                                     ▼
+                                DOCUMENT
 ```
 
-### Areas of interest
+My quality-engineering interests include:
 
-* Functional testing
-* Data validation
-* Workflow testing
-* Defect reporting
+* Functional validation
+* Data consistency
+* Workflow verification
+* Defect identification
 * Edge-case analysis
 * Regression thinking
-* Data consistency
-* Quality control
+* Root-cause investigation
 * Model/data evaluation
 
-This mindset influences how I approach development:
+### Engineering rule
 
-> **If I can predict how something can fail, I can design it better.**
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   "DON'T JUST ASK IF IT WORKS."                │
+│                                                 │
+│   ASK:                                          │
+│   • Why does it work?                           │
+│   • What happens when input changes?            │
+│   • What happens at the boundary?               │
+│   • What happens when the workflow breaks?      │
+│   • Can the failure be reproduced?              │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 ---
 
-# `08` — CERTIFICATION VAULT
+# `06 // DEVELOPMENT DNA`
+
+<div align="center">
+
+|  DNA | PRINCIPLE                                                 |
+| :--: | :-------------------------------------------------------- |
+| `01` | **CURIOUS** — understand before assuming                  |
+| `02` | **PRACTICAL** — build things that solve problems          |
+| `03` | **ITERATIVE** — first version is rarely the final version |
+| `04` | **QUALITY** — test what you build                         |
+| `05` | **CLEAN** — prefer understandable systems                 |
+| `06` | **ADAPTIVE** — learn unfamiliar technologies              |
+
+</div>
+
+---
+
+# `07 // CURRENT MISSION`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     CURRENT MISSION                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ████████████████████░░░░  SOFTWARE ENGINEERING             ║
+║  █████████████████░░░░░░░  FULL-STACK DEVELOPMENT           ║
+║  ███████████████░░░░░░░░░  QUALITY ENGINEERING              ║
+║  ██████████████░░░░░░░░░░  AI / ML                          ║
+║  █████████████░░░░░░░░░░░  BLOCKCHAIN                       ║
+║  ████████████░░░░░░░░░░░░  CLOUD                            ║
+║                                                              ║
+║  MODE :: LEARN → BUILD → TEST → REPEAT                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `08 // CREDENTIAL VAULT`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    VERIFIED CREDENTIALS                     │
+│                     VERIFIED MODULES                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ☁ Google Cloud                                              │
-│    Associate Cloud Engineer                                  │
+│  ☁  GOOGLE CLOUD                                             │
+│     Associate Cloud Engineer                                 │
 │                                                              │
-│  ☁ Microsoft Azure                                           │
-│    Cloud certification / learning                            │
+│  ☁  MICROSOFT AZURE                                          │
+│     Cloud certification / learning                           │
 │                                                              │
-│  ⚙ Automation Anywhere                                       │
-│    RPA Essentials for Students                               │
-│    Automation 360                                            │
+│  ⚙  AUTOMATION ANYWHERE                                      │
+│     RPA Essentials for Students — Automation 360             │
 │                                                              │
-│  💻 HackerRank                                                │
-│    Problem Solving                                           │
+│  ◆  HACKERRANK                                                │
+│     Problem Solving                                          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `09` — DEVELOPMENT PHILOSOPHY
-
-```text
-01  Understand the problem
-        ↓
-02  Design the smallest useful solution
-        ↓
-03  Build it
-        ↓
-04  Break it
-        ↓
-05  Find the weakness
-        ↓
-06  Improve it
-        ↓
-07  Document it
-        ↓
-08  Build the next version
-```
-
-### Principles I try to follow
-
-**01 — Simplicity**
-
-> Complexity should have a reason.
-
-**02 — Curiosity**
-
-> If I don't understand something, I want to build with it.
-
-**03 — Quality**
-
-> Working code is the beginning, not the finish line.
-
-**04 — Continuous Learning**
-
-> Every project should leave me with a new skill.
-
-**05 — Practical Engineering**
-
-> Technology matters most when it solves a real problem.
-
----
-
-# `10` — LEARNING QUEUE
-
-```text
-┌──────────────────────────────────────────────┐
-│              CURRENT QUEUE                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [██████████████████░░] Full-Stack          │
-│  [███████████████░░░░░] AI / ML             │
-│  [██████████████░░░░░░] Cloud               │
-│  [██████████████░░░░░░] Blockchain          │
-│  [█████████████░░░░░░░] Quality Engineering │
-│  [████████████░░░░░░░░] System Design       │
-│                                              │
-│  STATUS: ALWAYS LEARNING                    │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# `11` — THE WAY I BUILD
+# `09 // GITHUB TELEMETRY`
 
 <div align="center">
 
-```text
-          ┌─────────────┐
-          │    IDEA     │
-          └──────┬──────┘
-                 ↓
-        ┌─────────────────┐
-        │   BREAK DOWN    │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │    DESIGN       │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │      CODE       │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │      TEST       │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │     DEBUG       │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │     SHIP        │
-        └────────┬────────┘
-                 │
-                 └──────────────→ REPEAT
-```
+<img src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyasirahmed07&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shaikyasirahmed07&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-# `12` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyasirahmed07&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=shaikyasirahmed07&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# `13` — OPEN TO
+# `10 // TERMINAL`
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  SOFTWARE ENGINEERING                                     │
-│  FULL-STACK DEVELOPMENT                                    │
-│  QUALITY ENGINEERING                                      │
-│  AI / ML PROJECTS                                         │
-│  CLOUD TECHNOLOGIES                                       │
-│  BLOCKCHAIN / WEB3                                        │
-│  OPEN-SOURCE COLLABORATION                                │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+yasir@nexus:~$ whoami
 
-I'm interested in opportunities where I can **learn quickly, contribute meaningfully, and grow through real engineering problems.**
+> Shaik Yasir Ahmed
+
+yasir@nexus:~$ mission
+
+> Build useful software.
+> Understand systems.
+> Find failures.
+> Keep learning.
+
+yasir@nexus:~$ interests
+
+> Software Engineering
+> Full-Stack Development
+> AI / Machine Learning
+> Blockchain / Web3
+> Quality Engineering
+> Cloud Technologies
+
+yasir@nexus:~$ status
+
+> AVAILABLE FOR LEARNING
+> AVAILABLE FOR COLLABORATION
+> AVAILABLE FOR BUILDING
+
+yasir@nexus:~$ _
+```
 
 ---
 
-# `14` — CONNECT
+# `11 // OPEN CHANNELS`
 
 <div align="center">
-
-### Let's build something useful.
-
-<br>
 
 <a href="mailto:shaikyasirahmed07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-020617?style=for-the-badge&logo=gmail&logoColor=67e8f9"/>
 </a>
 
 <a href="https://linkedin.com/in/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/LINKEDIN-172554?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
 </a>
 
 <a href="https://github.com/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/GITHUB-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-020617?style=for-the-badge&logo=github&logoColor=c084fc"/>
 </a>
 
 <a href="https://www.codechef.com/users/yasirahmed07">
-<img src="https://img.shields.io/badge/CODECHEF-111827?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODECHEF-PROFILE-020617?style=for-the-badge&logo=codechef&logoColor=fbbf24"/>
 </a>
 
 </div>
@@ -573,16 +643,29 @@ I'm interested in opportunities where I can **learn quickly, contribute meaningf
 
 <div align="center">
 
+## `NEXUS // END OF TRANSMISSION`
+
 ```text
-────────────────────────────────────────────────────────────────
-
-                    YASIR // DIGITAL WORKSPACE
-
-        BUILD  •  TEST  •  LEARN  •  IMPROVE  •  REPEAT
-
-────────────────────────────────────────────────────────────────
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│              BUILD SOMETHING WORTH DEBUGGING.               │
+│                                                              │
+│       ┌───────┐   ┌───────┐   ┌───────┐   ┌───────┐        │
+│       │ BUILD │ → │ TEST  │ → │ LEARN │ → │ BUILD │        │
+│       └───────┘   └───────┘   └───────┘   └───────┘        │
+│                                                              │
+│                    SYSTEM STATUS: ONLINE                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312e81,50:172554,100:0f172a" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:172554,100:312e81" width="100%"/>
 
 </div>
+
+<!-- =========================================================
+     END OF NEXUS
+     ========================================================= -->
+
