@@ -417,15 +417,19 @@ I have a strong interest in **software quality and reliable application behavior
 
 <div align="center">
 
-<a href="https://github.com/shaikyasirahmed07">
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Shaik%20Yasir%20Ahmed%20-%20Contribution%20Activity"
-  alt="Shaik Yasir Ahmed GitHub Contribution Activity"
-  width="100%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=shaikyasirahmed07&theme=github-dark-blue&hide_border=true"
+alt="GitHub Contribution Streak"
+width="100%"
 />
 
-</a>
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+alt="GitHub Statistics"
+width="100%"
+/>
 
 </div>
 ---
