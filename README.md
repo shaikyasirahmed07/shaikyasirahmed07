@@ -477,56 +477,89 @@ I'm especially interested in teams where I can work on real products, collaborat
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="mailto:shaikyasirahmed07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shaikyasirahmed07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://linkedin.com/in/shaikyasirahmed07">
-  <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yasir%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/shaikyasirahmed07">
-  <img src="https://img.shields.io/badge/GitHub-shaikyasirahmed07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.codechef.com/users/yasirahmed07">
-  <img src="https://img.shields.io/badge/CodeChef-yasirahmed07-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-</p>
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:shaikyasirahmed07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/shaikyasirahmed07">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shaikyasirahmed07">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:2563EB&height=80&section=header&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=FFFFFF&fontAlignY=55"
+    width="100%"
+    alt="Let's Build Something Great"
+  />
 </p>
 
 <p align="center">
+  <br>
+
   <a href="mailto:shaikyasirahmed07@gmail.com">
-    <img src="https://img.shields.io/badge/shaikyasirahmed07%40gmail.com-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  &nbsp;
+
+  &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/shaikyasirahmed07">
-    <img src="https://img.shields.io/badge/Shaik%20Yasir%20Ahmed-LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
+
+  &nbsp;&nbsp;
+
   <a href="https://github.com/shaikyasirahmed07">
-    <img src="https://img.shields.io/badge/shaikyasirahmed07-GitHub-38BDF8?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/yasirahmed07">
+    <img
+      src="https://img.shields.io/badge/CODECHEF-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+      alt="CodeChef"
+    />
+  </a>
+
 </p>
 
--------
+<br>
+
+<p align="center">
+
+  <a href="mailto:shaikyasirahmed07@gmail.com">
+    📧 <b>shaikyasirahmed07@gmail.com</b>
+  </a>
+
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/shaikyasirahmed07">
+    🔗 <b>LinkedIn</b>
+  </a>
+
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+
+  <a href="https://github.com/shaikyasirahmed07">
+    💻 <b>GitHub</b>
+  </a>
+
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/yasirahmed07">
+    👨‍💻 <b>CodeChef</b>
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    🚀 Open to collaboration · 💡 Always learning · 🛠️ Building practical technology
+  </sub>
+</p>
+
+---
 
 <p align="center">
   <img
@@ -541,5 +574,5 @@ I'm especially interested in teams where I can work on real products, collaborat
 </h3>
 
 <p align="center">
-  <sub>Thanks for visiting my profile.</sub>
+  <sub>Thanks for visiting my profile. ❤️</sub>
 </p>
