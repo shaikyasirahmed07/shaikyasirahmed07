@@ -1,525 +1,509 @@
-<div align="center">
+<!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:0f172a,70:172554,100:312e81&text=SHAIK%20YASIR%20AHMED&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20%7C%20WEB3&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
+<!--                     HERO                                     -->
 
-<br>
+<!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=BUILDING+SYSTEMS+NOT+JUST+SCREENS.;FULL+STACK+ENGINEERING.;EXPLORING+AI+%2F+ML.;BUILDING+WITH+BLOCKCHAIN.;QUALITY+ENGINEERING+MINDSET.;LEARN.+BUILD.+BREAK.+IMPROVE." />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=220&section=header&text=Shaik%20Yasir%20Ahmed&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%2FML%20%7C%20Cloud&descAlignY=60&descSize=16"
+    width="100%"
+    alt="Shaik Yasir Ahmed"
+  />
+</p>
 
-<br><br>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Blockchain+%26+Web3+Developer;Software+Quality+%26+Testing+Enthusiast;Building+Practical+Technology"
+    alt="Typing introduction"
+  />
+</p>
 
-<a href="https://github.com/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-</a>
-&nbsp;
-<a href="mailto:shaikyasirahmed07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-</a>
+<p align="center">
+  <a href="mailto:shaikyasirahmed07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shaikyasirahmed07&style=for-the-badge&color=312e81&label=PROFILE+VIEWS"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=shaikyasirahmed07&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
 
 ---
 
-# ✦ WHO AM I?
+# 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Hi! I'm **Shaik Yasir Ahmed**, a Computer Science Engineering student focused on **software development, problem solving, and emerging technologies**.
 
-## Shaik Yasir Ahmed
+I enjoy building complete applications rather than working on only one layer of the stack. My projects have involved **frontend interfaces, backend APIs, databases, cloud services, blockchain applications, serverless functions, and AI/ML technologies**.
 
-I'm a **Computer Science & Engineering student** who enjoys turning ideas into working software.
+I'm particularly interested in engineering environments where I can:
 
-My interests sit across:
+* Build production-oriented software
+* Solve real-world technical problems
+* Learn from experienced engineers
+* Improve code quality and reliability
+* Work with modern development tools
+* Contribute to collaborative engineering teams
 
-* Full-stack development
-* Software engineering
-* Quality engineering
-* Artificial intelligence
-* Machine learning
-* Blockchain / Web3
-* Cloud technologies
+### 🎯 Current Career Interests
 
-I enjoy the complete engineering cycle:
+**Software Engineering · Full-Stack Development · Backend Development · AI/ML · Cloud Engineering · QA & Software Testing · Web3**
 
-**Think → Design → Build → Test → Debug → Improve**
+---
 
-I don't want to only learn technologies.
-
-I want to understand **how they work together to solve real problems.**
-
-</td>
-
-<td width="45%" valign="top">
+# 🧭 Developer Profile
 
 ```text
-╭────────────────────────────╮
-│       DEVELOPER CORE       │
-├────────────────────────────┤
-│                            │
-│  DOMAIN                    │
-│  Computer Science          │
-│                            │
-│  DEGREE                    │
-│  B.Tech — CSE              │
-│                            │
-│  PERIOD                    │
-│  2022 → 2026               │
-│                            │
-│  MODE                      │
-│  BUILD / TEST / LEARN      │
-│                            │
-│  STATUS                    │
-│  ● ACTIVE                  │
-│                            │
-╰────────────────────────────╯
+┌─────────────────────────────────────────────────────────────┐
+│                    SOFTWARE ENGINEERING                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   FRONTEND          BACKEND           DATA                   │
+│   React             Node.js           MongoDB                │
+│   JavaScript        Express           MySQL                  │
+│   HTML/CSS          Django            PostgreSQL             │
+│                     Spring Boot                              │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   AI / ML           CLOUD             WEB3                   │
+│   Python            Google Cloud     Solidity                │
+│   TensorFlow        Azure            Ethers.js               │
+│   PyTorch           Docker           Hardhat                 │
+│   Pandas            Linux            MetaMask                │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│                 QUALITY & ENGINEERING                        │
+│                                                             │
+│        Testing · Debugging · API Validation                  │
+│        Data Validation · Root Cause Analysis                  │
+│        Git · GitHub · Postman · Clean Code                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,dart,solidity" alt="Programming languages"/>
+</p>
+
+| Technology     | Experience Area                                      |
+| -------------- | ---------------------------------------------------- |
+| **Java**       | Object-oriented programming, application development |
+| **Python**     | Backend development, automation, AI/ML               |
+| **C**          | Programming fundamentals and problem solving         |
+| **JavaScript** | Frontend and full-stack development                  |
+| **Dart**       | Flutter application development                      |
+| **Solidity**   | Smart contract development                           |
 
 ---
 
-# ◈ MY ENGINEERING UNIVERSE
+## 🌐 Frontend Development
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" alt="Frontend technologies"/>
+</p>
 
-```text
-                         ┌───────────────┐
-                         │     YASIR     │
-                         │   ENGINEERING │
-                         └───────┬───────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-        ┌───────────┐      ┌───────────┐      ┌───────────┐
-        │   BUILD   │      │ INTELLIGENCE│     │  QUALITY  │
-        └─────┬─────┘      └──────┬────┘      └─────┬─────┘
-              │                   │                  │
-          WEB • API          AI • ML            TESTING
-          DATA • CLOUD       AUTOMATION         VALIDATION
-              │                   │                  │
-              └───────────────────┼──────────────────┘
-                                  ▼
-                         REAL-WORLD SYSTEMS
-```
-
-</div>
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Responsive interfaces
+* Component-based development
+* API integration
+* State management concepts
 
 ---
 
-# ⚡ TECHNOLOGY CONSTELLATION
+## ⚙️ Backend Development
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" alt="Backend technologies"/>
+</p>
 
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,dart" />
-
-<br><br>
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,redux,flutter" />
-
-<br><br>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" />
-
-<br><br>
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-<br><br>
-
-### `AI / ML`
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<br><br>
-
-### `ENGINEERING TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
-
-</div>
+* Node.js
+* Express.js
+* Django
+* Flask
+* Spring Boot
+* REST API development
+* Server-side application logic
+* Authentication workflows
+* Backend/frontend integration
 
 ---
 
-# 🛰️ SELECTED PROJECTS
+## 🗄️ Databases
 
-> Different problems. Different technologies. One engineering mindset.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database technologies"/>
+</p>
+
+* MongoDB
+* MySQL
+* PostgreSQL
+* CRUD operations
+* Relational database concepts
+* Data modeling
+* Backend database integration
 
 ---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and ML technologies"/>
+</p>
+
+* Python for ML workflows
+* TensorFlow
+* PyTorch
+* Pandas
+* Machine learning fundamentals
+* Data processing
+* AI application development
+
+---
+
+## ☁️ Cloud & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,git,github,linux,vscode,postman" alt="Cloud and development tools"/>
+</p>
+
+### Cloud
+
+* Google Cloud
+* Microsoft Azure
+* Cloud computing fundamentals
+* Deployment concepts
+
+### Development Tools
+
+* Git
+* GitHub
+* Linux / Unix
+* VS Code
+* Postman
+* Docker
+
+---
+
+## ⛓️ Blockchain & Web3
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain technologies"/>
+</p>
+
+* Solidity
+* Ethereum
+* Ethers.js
+* Hardhat
+* MetaMask
+* Smart contract integration
+* Decentralized application development
+
+---
+
+# 🚀 Featured Projects
 
 ## 🌾 DakshKrishi
 
 ### Full-Stack Crop Recommendation System
 
-**React · Spring Boot · PostgreSQL**
+A full-stack agricultural application designed around crop recommendation and farming-related workflows.
+
+**Technology Stack**
 
 ```text
-             USER
-              │
-              ▼
-        ┌────────────┐
-        │   REACT    │
-        └─────┬──────┘
-              │
-              ▼
-        ┌────────────┐
-        │SPRING BOOT │
-        └─────┬──────┘
-              │
-              ▼
-        ┌────────────┐
-        │ POSTGRESQL │
-        └────────────┘
+Frontend     → React
+Backend      → Spring Boot
+Database     → PostgreSQL
 ```
 
-A full-stack agricultural application focused on crop recommendation and practical decision support.
+### Engineering Areas
 
-**Focus**
-
-`Full Stack` `Agriculture Technology` `Backend APIs` `PostgreSQL`
+* React-based user interface
+* Spring Boot backend
+* REST API integration
+* PostgreSQL database
+* Full-stack application architecture
+* Data-driven recommendation workflow
 
 ---
 
-## ⛓️ Water Bill Management DApp
+## 💧 Water Bill Management DApp
 
-### Blockchain-based billing system
+### Blockchain-Based Water Billing Application
 
-**Solidity · React · Ethers.js · Hardhat**
+A decentralized application exploring blockchain-based water billing and management workflows.
+
+**Technology Stack**
 
 ```text
-USER
- │
- ▼
-REACT APPLICATION
- │
- ▼
-ETHERS.JS
- │
- ▼
-SMART CONTRACT
- │
- ▼
-BLOCKCHAIN
+Frontend     → React
+Blockchain   → Solidity
+Web3         → Ethers.js
+Wallet       → Browser Wallet
 ```
 
-A decentralized application exploring blockchain-based water-billing workflows.
+### Engineering Areas
 
-**Focus**
-
-`Smart Contracts` `Web3` `Wallet Integration` `Blockchain`
+* Smart contract development
+* Blockchain interaction
+* Web3 integration
+* Wallet connectivity
+* Decentralized application workflow
+* Contract-based data management
 
 ---
 
-## 🗳️ Online Voting System
+## 🗳️ Online Voting System Using Blockchain
 
-### Blockchain voting application
+### Decentralized Voting Application
 
-**Solidity · Hardhat · React · Ethers.js · MetaMask**
+A blockchain-based voting application exploring transparent and decentralized voting workflows.
+
+**Technology Stack**
 
 ```text
-VOTER
-  │
-  ▼
-REACT UI
-  │
-  ▼
-ETHERS.JS
-  │
-  ▼
-METAMASK
-  │
-  ▼
-SMART CONTRACT
-  │
-  ▼
-EVM
+Frontend     → React
+Smart        → Solidity
+Development  → Hardhat
+Web3         → Ethers.js
+Wallet       → MetaMask
 ```
 
-A Web3 project exploring wallet-connected voting workflows and smart-contract interaction.
+### Engineering Areas
 
-**Focus**
-
-`Solidity` `Web3` `Ethers.js` `MetaMask`
+* Smart contract logic
+* Candidate/voting workflows
+* Blockchain interaction
+* Wallet integration
+* Frontend/Web3 communication
 
 ---
 
-## ✉️ Automatic Mail Sender
+## 📧 Automatic Mail Sender
 
 ### React + Serverless Email Application
 
-**React · Netlify Functions · Axios · EmailJS · Vanta.js · Three.js**
+A web application that allows users to enter recipient information, subject, and message and submit the request through a serverless email workflow.
+
+**Technology Stack**
 
 ```text
-USER
- │
- ▼
-EMAIL FORM
- │
- ▼
-NETLIFY FUNCTION
- │
- ▼
-EMAILJS
- │
- ▼
-RECIPIENT
+Frontend     → React
+HTTP         → Axios
+Serverless   → Netlify Functions
+Email        → EmailJS
+Visuals      → Vanta.js + Three.js
 ```
 
-A web application combining a React interface, serverless backend function, email API integration, and animated visual presentation.
+### Engineering Areas
 
-**Focus**
-
-`React` `Serverless` `API Integration` `Frontend Engineering`
+* React component development
+* Form handling
+* Serverless functions
+* API integration
+* Email delivery workflow
+* Interactive UI
 
 ---
 
-# 🧪 QUALITY ENGINEERING
+# 🧪 Quality Engineering
 
-I don't see development and testing as two completely separate worlds.
+I have a strong interest in **software quality and reliable application behavior**, alongside development.
 
-My development mindset is:
+### Areas I Work With
 
 ```text
-              BUILD
-                │
-                ▼
-             VALIDATE
-                │
-                ▼
-        ┌───────┴────────┐
-        │                │
-      MATCH           MISMATCH
-        │                │
-        ▼                ▼
-     ACCEPT          INVESTIGATE
-                         │
-                         ▼
-                    ROOT CAUSE
-                         │
-                         ▼
-                     DOCUMENT
-                         │
-                         ▼
-                      IMPROVE
+                    ┌─────────────────┐
+                    │  REQUIREMENTS   │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ TEST SCENARIOS  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ DATA VALIDATION │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ DEFECT ANALYSIS │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ ROOT CAUSE      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ VERIFICATION    │
+                    └─────────────────┘
 ```
 
-### Areas I work with
+### Skills
 
-* Functional validation
-* Data consistency
-* Workflow verification
-* Defect identification
-* Edge-case analysis
-* Regression testing
-* Root-cause investigation
-* Model/data evaluation
-* Quality documentation
-
-### My QA mindset
-
-> **Don't only ask whether it works. Ask what happens when it doesn't.**
+* Functional testing
+* Workflow validation
+* Data validation
+* API testing
+* Defect reproduction
+* Bug documentation
+* Root cause analysis
+* Regression testing concepts
+* Application behavior validation
+* Postman-based API testing
 
 ---
 
-# 🧠 HOW I APPROACH PROBLEMS
+# 🏆 Certifications
 
-<table>
-<tr>
-<td align="center" width="16%">
+<p align="center">
 
-### 01
+<img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer"/>
 
-**UNDERSTAND**
+<img src="https://img.shields.io/badge/Automation%20Anywhere-RPA%20Essentials-FF6B00?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere RPA Essentials"/>
 
-</td>
-<td align="center" width="16%">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Problem Solving"/>
 
-### 02
+</p>
 
-**BREAK DOWN**
+---
 
-</td>
-<td align="center" width="16%">
+# 📈 GitHub Analytics
 
-### 03
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyasirahmed07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top languages"
+  />
+</p>
 
-**DESIGN**
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shaikyasirahmed07&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub streak"
+  />
+</p>
 
-</td>
-<td align="center" width="16%">
+---
 
-### 04
+# 📊 Contribution Activity
 
-**BUILD**
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub contribution graph"
+  />
+</p>
 
-</td>
-<td align="center" width="16%">
+---
 
-### 05
+# 🌱 Currently Learning
 
-**TEST**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML"/>
+  <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Cloud-Deepening-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-Improving-059669?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineering"/>
+</p>
 
-</td>
-<td align="center" width="16%">
+---
 
-### 06
+# 💼 Open to Opportunities
 
-**IMPROVE**
-
-</td>
-</tr>
-</table>
+I'm interested in opportunities related to:
 
 ```text
-                    ┌──────────────┐
-                    │    IDEA      │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    DESIGN    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │     CODE     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │     TEST     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    SHIP      │
-                    └──────┬───────┘
-                           │
-                           └──────────────→ ITERATE
+┌───────────────────────────────────────────┐
+│                                           │
+│  💻 Software Engineering                  │
+│  🌐 Full-Stack Development                │
+│  ⚙️  Backend Development                  │
+│  🤖 AI / Machine Learning                 │
+│  ☁️  Cloud Engineering                    │
+│  🧪 QA / Software Testing                 │
+│  ⛓️  Blockchain / Web3                    │
+│                                           │
+└───────────────────────────────────────────┘
 ```
 
----
-
-# ☁️ CERTIFICATION VAULT
-
-<div align="center">
-
-| Certification                                         | Area                          |
-| :---------------------------------------------------- | :---------------------------- |
-| **Google Cloud — Associate Cloud Engineer**           | Cloud                         |
-| **Automation Anywhere — RPA Essentials for Students** | Automation / RPA              |
-| **HackerRank — Problem Solving**                      | Programming / Problem Solving |
-
-</div>
+I'm especially interested in teams where I can work on real products, collaborate with experienced engineers, and continue developing strong software engineering fundamentals.
 
 ---
 
-# 🚀 CURRENTLY EXPLORING
+# 🤝 Connect With Me
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  AI / ML                 █████████████████░░░              │
-│  FULL STACK              ██████████████████░░              │
-│  QUALITY ENGINEERING     ████████████████░░░░              │
-│  BLOCKCHAIN              ███████████████░░░░░              │
-│  CLOUD                   ██████████████░░░░░░              │
-│  SYSTEM DESIGN           █████████████░░░░░░░              │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-**Current mindset:**
-
-`Learn → Build → Break → Understand → Improve`
-
----
-
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaikyasirahmed07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikyasirahmed07&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shaikyasirahmed07&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🎯 WHAT I'M LOOKING FOR
-
-I'm interested in opportunities where I can:
-
-* Build real-world software
-* Work with experienced engineers
-* Improve my engineering fundamentals
-* Contribute to meaningful products
-* Explore AI/ML and modern software systems
-* Apply quality engineering practices
-* Learn through challenging technical problems
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
+<p align="center">
 
 <a href="mailto:shaikyasirahmed07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-shaikyasirahmed07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://linkedin.com/in/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Yasir%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/shaikyasirahmed07">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-shaikyasirahmed07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.codechef.com/users/yasirahmed07">
-<img src="https://img.shields.io/badge/CODECHEF-PROFILE-111827?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-yasirahmed07-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+📧 **[shaikyasirahmed07@gmail.com](mailto:shaikyasirahmed07@gmail.com)**
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│                  BUILD. TEST. EVOLVE.                   │
-│                                                          │
-│              ─── YASIR AHMED ───                        │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+🔗 **linkedin.com/in/shaikyasirahmed07**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312e81,50:172554,100:050816" width="100%"/>
+💻 **github.com/shaikyasirahmed07**
 
-</div>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0EA5E9,100:020617&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
+
+<h3 align="center">
+  ⚡ Build · Learn · Test · Improve · Ship ⚡
+</h3>
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
+</p>
