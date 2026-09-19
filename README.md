@@ -496,15 +496,37 @@ I'm especially interested in teams where I can work on real products, collaborat
 
 </p>
 
+# 🤝 Let's Connect
+
 <p align="center">
-
-📧 **[Email](mailto:shaikyasirahmed07@gmail.com)**  
-🔗 **[LinkedIn](https://linkedin.com/in/shaikyasirahmed07)**  
-💻 **[GitHub](https://github.com/shaikyasirahmed07)**
-
+  <a href="mailto:shaikyasirahmed07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="mailto:shaikyasirahmed07@gmail.com">
+    <img src="https://img.shields.io/badge/shaikyasirahmed07%40gmail.com-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/Shaik%20Yasir%20Ahmed-LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/shaikyasirahmed07">
+    <img src="https://img.shields.io/badge/shaikyasirahmed07-GitHub-38BDF8?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+-------
 
 <p align="center">
   <img
