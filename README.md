@@ -434,14 +434,21 @@ width="100%"
 </div>
 ---
 
-# 🌱 Currently Learning
+# 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML"/>
-  <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Cloud-Deepening-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-Improving-059669?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineering"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/shaikyasirahmed07">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=shaikyasirahmed07&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+alt="Shaik Yasir Ahmed GitHub Contribution Activity"
+width="100%"
+/>
+
+</a>
+
+</div>
 
 ---
 
